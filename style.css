@@ -1,0 +1,132 @@
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Navigation */
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #162831;
+    color: #fff; /* Cor do texto */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.logo {
+    font-size: 24px;
+    text-decoration: none;
+    color: #fff; /* Cor do texto */
+}
+
+.logo span {
+    color: #32cd32; /* Verde Sicoob */
+}
+
+.nav-menu {
+    list-style: none;
+    display: flex;
+}
+
+.nav-item {
+    margin-right: 20px;
+}
+
+.nav-item:last-child {
+    margin-right: 0;
+}
+
+.nav-item a {
+    text-decoration: none;
+    color: #fff; /* Cor do texto */
+}
+
+.menu {
+    display: none;
+    flex-direction: column;
+    cursor: pointer;
+}
+
+.bar {
+    width: 25px;
+    height: 3px;
+    background-color: #fff; /* Cor do ícone do menu */
+    margin: 4px 0;
+}
+
+/* Hero Section */
+.hero {
+    background-image: url('https://via.placeholder.com/1500x500');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.hero-content {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.hero h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+
+.btn {
+    display: inline-block;
+    background-color: #8dc63f; /* Verde Sicoob */
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #6b9f3f; /* Tom mais escuro de verde Sicoob */
+}
+
+/* About, Menu, and Contact Sections */
+.about,
+.menu,
+.contact {
+    text-align: center;
+    padding: 100px 0;
+}
+
+.about h2,
+.menu h2,
+.contact h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.about p,
+.menu p,
+.contact p {
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+
+/* Footer */
+footer {
+    background-color: #008080; /* Azul Sicoob */
+    color: #fff; /* Cor do texto */
+    text-align: center;
+    padding: 1px;
+    font-size: 10px;  
+}

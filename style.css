@@ -63,10 +63,10 @@ body {
 
 /* Hero Section */
 .hero {
-    background-image: url('https://via.placeholder.com/1500x500');
+    background-image: url('/Design\ sem\ nome\ \(3\).png');
     background-size: cover;
     background-position: center;
-    color: #fff;
+    color: #000000;
     text-align: center;
     padding: 100px 0;
 }

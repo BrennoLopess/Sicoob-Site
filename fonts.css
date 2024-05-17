@@ -1,0 +1,143 @@
+@font-face {
+    font-family: "sicoobsansblack";
+    src: url('/mnt/c/Users/brenn/OneDrive/Área de Trabalho/Sicoob-Site/componetes/fontes/SicoobSans-Black.woff') format("woff")
+         url("/mnt/c/Users/brenn/OneDrive/Área de Trabalho/Sicoob-Site/componetes/fontes/SicoobSans-Black.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "sicoobsansblackitalick";
+    src: url('/mnt/c/Users/brenn/OneDrive/Área de Trabalho/Sicoob-Site/componetes/fontes/SicoobSans-BlackItalic.woff') format("woff")
+         url("/mnt/c/Users/brenn/OneDrive/Área de Trabalho/Sicoob-Site/componetes/fontes/SicoobSans-BlackItalic.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "sicoobsansBold";
+    src: url('/mnt/c/Users/brenn/OneDrive/Área de Trabalho/Sicoob-Site/componetes/fontes/SicoobSans-Bold.woff') format("woff"),
+         url('/mnt/c/Users/brenn/OneDrive/Área de Trabalho/Sicoob-Site/componetes/fontes/SicoobSans-Bold.woff2') format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "sicoobsansBoldItalic";
+    src: url('/mnt/c/Users/brenn/OneDrive/Área de Trabalho/Sicoob-Site/componetes/fontes/SicoobSans-BoldItalic.woff') format("woff"),
+         url('/mnt/c/Users/brenn/OneDrive/Área de Trabalho/Sicoob-Site/componetes/fontes/SicoobSans-BoldItalic.woff2') format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "sicoobsansExtraBold";
+    src: url('/mnt/c/Users/brenn/OneDrive/Área de Trabalho/Sicoob-Site/componetes/fontes/SicoobSans-ExtraBold.woff') format("woff"),
+         url('/mnt/c/Users/brenn/OneDrive/Área de Trabalho/Sicoob-Site/componetes/fontes/SicoobSans-ExtraBold.woff2') format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "sicoobsansExtraBoldItalic";
+    src: url('/mnt/c/Users/brenn/OneDrive/Área de Trabalho/Sicoob-Site/componetes/fontes/SicoobSans-ExtraBoldItalic.woff') format("woff"),
+         url('/mnt/c/Users/brenn/OneDrive/Área de Trabalho/Sicoob-Site/componetes/fontes/SicoobSans-ExtraBoldItalic.woff2') format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "sicoobsansExtraLight";
+    src: url('/mnt/c/Users/brenn/OneDrive/Área de Trabalho/Sicoob-Site/componetes/fontes/SicoobSans-ExtraLight.woff') format("woff"),
+         url('/mnt/c/Users/brenn/OneDrive/Área de Trabalho/Sicoob-Site/componetes/fontes/SicoobSans-ExtraLight.woff2') format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "sicoobsansExtraLightItalic";
+    src: url('/mnt/c/Users/brenn/OneDrive/Área de Trabalho/Sicoob-Site/componetes/fontes/SicoobSans-ExtraLightItalic.woff') format("woff"),
+         url('/mnt/c/Users/brenn/OneDrive/Área de Trabalho/Sicoob-Site/componetes/fontes/SicoobSans-ExtraLightItalic.woff2') format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "sicoobsansItalic";
+    src: url('/mnt/c/Users/brenn/OneDrive/Área de Trabalho/Sicoob-Site/componetes/fontes/SicoobSans-Italic.woff') format("woff"),
+         url('/mnt/c/Users/brenn/OneDrive/Área de Trabalho/Sicoob-Site/componetes/fontes/SicoobSans-Italic.woff2') format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "sicoobsansLight";
+    src: url('/mnt/c/Users/brenn/OneDrive/Área de Trabalho/Sicoob-Site/componetes/fontes/SicoobSans-Light.woff') format("woff"),
+         url('/mnt/c/Users/brenn/OneDrive/Área de Trabalho/Sicoob-Site/componetes/fontes/SicoobSans-Light.woff2') format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "sicoobsansLightItalic";
+    src: url('/mnt/c/Users/brenn/OneDrive/Área de Trabalho/Sicoob-Site/componetes/fontes/SicoobSans-LightItalic.woff') format("woff"),
+         url('/mnt/c/Users/brenn/OneDrive/Área de Trabalho/Sicoob-Site/componetes/fontes/SicoobSans-LightItalic.woff2') format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "sicoobsansMedium";
+    src: url('/mnt/c/Users/brenn/OneDrive/Área de Trabalho/Sicoob-Site/componetes/fontes/SicoobSans-Medium.woff') format("woff"),
+         url('/mnt/c/Users/brenn/OneDrive/Área de Trabalho/Sicoob-Site/componetes/fontes/SicoobSans-Medium.woff2') format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "sicoobsansMediumItalic";
+    src: url('/mnt/c/Users/brenn/OneDrive/Área de Trabalho/Sicoob-Site/componetes/fontes/SicoobSans-MediumItalic.woff') format("woff"),
+         url('/mnt/c/Users/brenn/OneDrive/Área de Trabalho/Sicoob-Site/componetes/fontes/SicoobSans-MediumItalic.woff2') format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "sicoobsansRegular";
+    src: url('/mnt/c/Users/brenn/OneDrive/Área de Trabalho/Sicoob-Site/componetes/fontes/SicoobSans-Regular.woff') format("woff"),
+         url('/mnt/c/Users/brenn/OneDrive/Área de Trabalho/Sicoob-Site/componetes/fontes/SicoobSans-Regular.woff2') format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "sicoobsansSemiBold";
+    src: url('/mnt/c/Users/brenn/OneDrive/Área de Trabalho/Sicoob-Site/componetes/fontes/SicoobSans-SemiBold.woff') format("woff"),
+         url('/mnt/c/Users/brenn/OneDrive/Área de Trabalho/Sicoob-Site/componetes/fontes/SicoobSans-SemiBold.woff2') format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "sicoobsansSemiBoldItalic";
+    src: url('/mnt/c/Users/brenn/OneDrive/Área de Trabalho/Sicoob-Site/componetes/fontes/SicoobSans-SemiBoldItalic.woff') format("woff"),
+         url('/mnt/c/Users/brenn/OneDrive/Área de Trabalho/Sicoob-Site/componetes/fontes/SicoobSans-SemiBoldItalic.woff2') format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "sicoobsansThin";
+    src: url('/mnt/c/Users/brenn/OneDrive/Área de Trabalho/Sicoob-Site/componetes/fontes/SicoobSans-Thin.woff') format("woff"),
+         url('/mnt/c/Users/brenn/OneDrive/Área de Trabalho/Sicoob-Site/componetes/fontes/SicoobSans-Thin.woff2') format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "sicoobsansThinItalic";
+    src: url('/mnt/c/Users/brenn/OneDrive/Área de Trabalho/Sicoob-Site/componetes/fontes/SicoobSans-ThinItalic.woff') format("woff"),
+         url('/mnt/c/Users/brenn/OneDrive/Área de Trabalho/Sicoob-Site/componetes/fontes/SicoobSans-ThinItalic.woff2') format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}

@@ -63,12 +63,13 @@ body {
 
 /* Hero Section */
 .hero {
-    background-image: url('/Design\ sem\ nome\ \(3\).png');
+    background-image: url('/Design\ sem\ nome\ \(4\).png');
     background-size: cover;
     background-position: center;
     color: #000000;
     text-align: center;
-    padding: 100px 0;
+    padding: 20px;
+    margin: 50px 0;
 }
 
 .hero-content {
